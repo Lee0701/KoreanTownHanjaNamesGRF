@@ -1,0 +1,8 @@
+##grflangid 0x00
+
+# GRF name and description
+STR_GRF_NAME					:Korean Town Hanja Names
+STR_GRF_NAME_WITH_VER				:Korean Town Hanja Names v{VERSION}
+STR_GRF_DESC					:{}{BLACK}A NewGRF Set containing virtual korean town names written in Hanja.{}
+
+STR_GRF_NAME_VIRTUALTYPE			:Korean Town Names (Virtual, written in Hanja)
